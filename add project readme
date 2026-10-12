@@ -1,0 +1,13 @@
+#STUDENT MARKS MANAGEMENT SYSTEM
+#About
+This is my first python project.
+It accepts student details and marks of five subjects
+
+#Features
+Accept student name
+Input subject marks
+Calculate total marks
+Calculate percentage
+
+#Language
+Python
